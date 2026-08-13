@@ -1,0 +1,814 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bit",
+          "description": "is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:29:55Z",
+            "owner": "teambit",
+            "repo": "bit",
+            "stars": 18455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nix",
+          "description": "is a package and distribution build tool with remote caching, predominately used by NixOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:21:20Z",
+            "owner": "NixOS",
+            "repo": "nix",
+            "stars": 17501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bolt Pkg",
+          "description": "is a super-powered JavaScript project management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-01T08:17:55Z",
+            "owner": "boltpkg",
+            "repo": "bolt",
+            "stars": 2429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bazel",
+          "description": "is Google's monorepo-oriented build system. More on Bazel: awesome-bazel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-13T07:46:30Z",
+            "owner": "jin",
+            "repo": "awesome-bazel",
+            "stars": 1239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAO",
+          "description": "is a Yarn-based, opinionated JavaScript monorepo management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T23:47:34Z",
+            "owner": "guigrpa",
+            "repo": "oao",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spago",
+          "description": "is a PureScript package manager and build tool powered by Dhall and package-sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2026-08-04T21:48:01Z",
+            "owner": "purescript",
+            "repo": "spago",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symplify/MonorepoBuilder",
+          "description": "is a PHP monorepo management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T02:19:49Z",
+            "owner": "symplify",
+            "repo": "monorepo-builder",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "baur",
+          "description": "builds only changed applications in a monorepo branch and manages build artifacts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T02:08:42Z",
+            "owner": "simplesurance",
+            "repo": "baur",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBT",
+          "description": "is a build tool with differential build support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-13T14:20:17Z",
+            "owner": "mbtproject",
+            "repo": "mbt",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Versio",
+          "description": "updates all version numbers in monorepo projects based on conventional commits, and can generate changelogs and tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-19T09:10:48Z",
+            "owner": "chaaz",
+            "repo": "versio",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tainted",
+          "description": "is a tool to determine which Go packages need to be rebuilt in a monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-01-15T16:36:00Z",
+            "owner": "kynrai",
+            "repo": "tainted",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Garment",
+          "description": "is Farfetch's monorepo build system with centralized and customizable task management.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-01-03T12:25:03Z",
+            "owner": "Farfetch",
+            "repo": "garment",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layer-pack",
+          "description": "is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-18T05:59:23Z",
+            "owner": "layer-pack",
+            "repo": "layer-pack",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drkns",
+          "description": "is a simple and language agnostic monorepo build tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T09:51:01Z",
+            "owner": "frantzmiccoli",
+            "repo": "drkns",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Build systems & dependency management tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meta",
+          "description": "is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying \"both\", with a meta repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T00:12:42Z",
+            "owner": "mateodelnorte",
+            "repo": "meta",
+            "stars": 2215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Syncpack",
+          "description": "ensures consistent dependency versions in large JavaScript Monorepos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T11:17:09Z",
+            "owner": "JamieMason",
+            "repo": "syncpack",
+            "stars": 2082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultra Runner",
+          "description": "is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:56:11Z",
+            "owner": "folke",
+            "repo": "ultra-runner",
+            "stars": 1245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oao",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T23:47:34Z",
+            "owner": "guigrpa",
+            "repo": "oao",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wsrun",
+          "description": "allows running a command in each package of a Yarn workspaces monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-04T21:57:58Z",
+            "owner": "hfour",
+            "repo": "wsrun",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBShipIt",
+          "description": "is a library written in Hack for copying commits from one repository to another.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Hack",
+            "last_commit": "2023-06-07T19:47:15Z",
+            "owner": "facebookarchive",
+            "repo": "fbshipit",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Builder",
+          "description": "is a tool that makes it possible to ship the same scripts across projects in a Node.js monorepo. For example, share build and testing scripts across projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-03-03T22:32:10Z",
+            "owner": "FormidableLabs",
+            "repo": "builder",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monorepo-run",
+          "description": "is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-11T14:39:54Z",
+            "owner": "Akryum",
+            "repo": "monorepo-run",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lank",
+          "description": "is a tool that links packages together in a Node.js monorepo using automatic configuration of instead of symlinks. Lank also allows you to run the same commands across all (or subsets of all) packages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-03-03T22:32:13Z",
+            "owner": "FormidableLabs",
+            "repo": "lank",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adeira/shipit",
+          "description": "is a simplified JavaScript port of FBShipIt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-14T16:55:02Z",
+            "owner": "adeira",
+            "repo": "shipit",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Repository management tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Version control systems & add-ons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GVFS",
+          "description": "virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T21:30:46Z",
+            "owner": "microsoft",
+            "repo": "VFSForGit",
+            "stars": 6123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "josh",
+          "description": "is a git server proxy enabling on-the-fly virtualization of repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:44:39Z",
+            "owner": "josh-project",
+            "repo": "josh",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splitsh-lite",
+          "description": "is a very fast git subtree alternative to splits subtrees from your project into subprojects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-30T16:05:39Z",
+            "owner": "splitsh",
+            "repo": "lite",
+            "stars": 1613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git subtree",
+          "description": "merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "git subsplit",
+              "description": "automates and simplifies the process of managing one-way read-only subtree splits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2018-10-03T00:28:38Z",
+                "owner": "dflydev",
+                "repo": "git-subsplit",
+                "stars": 327
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-07-20T09:27:11Z",
+            "owner": "apenwarr",
+            "repo": "git-subtree",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mgt",
+          "description": "is a tool that enables easy bidirectional sync between multiple repositories via files that define how to remap a repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-06-14T17:54:56Z",
+            "owner": "nikita-skobov",
+            "repo": "monorepo-git-tools",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-diff",
+          "description": "is a handy tool analyzes which packages needed to be rebuilt due to changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-27T15:08:27Z",
+            "owner": "joesonw",
+            "repo": "go-diff",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mercurial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development process tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rietveld",
+          "description": "is a code review tool by Google used by Chromium.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-01T05:00:16Z",
+            "owner": "rietveld-codereview",
+            "repo": "rietveld",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pull Review",
+          "description": "Hubot plugin to automate pull reviews with lots of configuration options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T12:20:06Z",
+            "owner": "imsky",
+            "repo": "pull-review",
+            "stars": 209
+          }
+        }
+      ],
+      "title": "Code reviews"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "buildpipe",
+          "description": "is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:34:10Z",
+            "owner": "jwplayer",
+            "repo": "buildpipe-buildkite-plugin",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazel-travis",
+          "description": "is a minimal setup to use Travis CI in a Bazel monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-10-05T23:49:01Z",
+            "owner": "korfuri",
+            "repo": "bazel-travis",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "CI tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CODEOWNERS generator",
+          "description": "generates a CODEOWNERS file for your monorepo from files in subfolders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:34:09Z",
+            "owner": "gagoar",
+            "repo": "codeowners-generator",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Write Guard",
+          "description": "uses GitHub actions to enforce file-level write access to a monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-05T04:09:34Z",
+            "owner": "geritol",
+            "repo": "write-guard",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Code ownership"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-08-13T04:00:51Z",
+            "owner": "NixOS",
+            "repo": "nixpkgs",
+            "stars": 25780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:21:38Z",
+            "owner": "berty",
+            "repo": "berty",
+            "stars": 9271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtonMail's monorepo (the proton web clients: mail, calendar...)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:15:55Z",
+            "owner": "ProtonMail",
+            "repo": "WebClients",
+            "stars": 5541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-17T15:06:04Z",
+            "owner": "m3db",
+            "repo": "m3",
+            "stars": 4893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habitat's monorepo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T04:34:57Z",
+            "owner": "habitat-sh",
+            "repo": "habitat",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-10T02:52:11Z",
+            "owner": "celo-org",
+            "repo": "celo-monorepo",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-10-05T20:27:56Z",
+            "owner": "google",
+            "repo": "startup-os",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entria's Full Stack Playground Monorepo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T00:54:13Z",
+            "owner": "entria",
+            "repo": "entria-fullstack",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foursquare's opensource projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-07-30T18:02:04Z",
+            "owner": "foursquare",
+            "repo": "fsqio",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stellar's Go monorepo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-12-10T10:05:35Z",
+            "owner": "stellar",
+            "repo": "go",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Notable public monorepos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gazelle",
+          "description": "generates Bazel BUILD files automatically for Go packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:05:21Z",
+            "owner": "bazel-contrib",
+            "repo": "rules_go",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomono",
+          "description": "imports an existing set of Git repositories into a monorepo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-09-01T07:58:19Z",
+            "owner": "hraban",
+            "repo": "tomono",
+            "stars": 921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shopsys/monorepo-tools",
+          "description": "contains a set of tools for building and splitting a monolithic repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T13:01:22Z",
+            "owner": "shopsys",
+            "repo": "monorepo-tools",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bazel's migration-tooling",
+          "description": "repository.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-01-30T13:22:25Z",
+            "owner": "bazelbuild",
+            "repo": "migration-tooling",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastlane monorepo migration tools",
+          "description": "tools for migrating code and github issues. Specific for fastlane so requires some code changes to use",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-07-16T18:22:56Z",
+            "owner": "fastlane",
+            "repo": "monorepo",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Migration tools"
+    },
+    {
+      "description": "To the extent possible under law, Uriel Corfa has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:04.129Z",
+    "original_repository": "korfuri/awesome-monorepo",
+    "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
+    "enhanced_repository": "enhansome/enhansome-monorepo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Monorepo with stars"
+  }
+}
