@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:29:55Z",
+            "last_commit": "2026-08-13T19:01:47Z",
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18455
+            "stars": 18454
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T22:21:20Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17501
+            "stars": 17504
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T00:12:42Z",
+            "last_commit": "2026-08-13T10:02:23Z",
             "owner": "mateodelnorte",
             "repo": "meta",
             "stars": 2215
@@ -230,7 +230,7 @@
             "last_commit": "2026-08-09T11:17:09Z",
             "owner": "JamieMason",
             "repo": "syncpack",
-            "stars": 2082
+            "stars": 2083
           }
         },
         {
@@ -383,7 +383,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:44:39Z",
+            "last_commit": "2026-08-13T19:28:13Z",
             "owner": "josh-project",
             "repo": "josh",
             "stars": 1909
@@ -400,7 +400,7 @@
             "last_commit": "2025-11-30T16:05:39Z",
             "owner": "splitsh",
             "repo": "lite",
-            "stars": 1613
+            "stars": 1612
           }
         },
         {
@@ -586,10 +586,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-13T04:00:51Z",
+            "last_commit": "2026-08-13T23:00:49Z",
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25780
+            "stars": 25793
           }
         },
         {
@@ -614,10 +614,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:15:55Z",
+            "last_commit": "2026-08-13T20:15:30Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5541
+            "stars": 5543
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2026-06-17T15:06:04Z",
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4893
+            "stars": 4892
           }
         },
         {
@@ -732,7 +732,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T14:05:21Z",
+            "last_commit": "2026-08-13T20:03:14Z",
             "owner": "bazel-contrib",
             "repo": "rules_go",
             "stars": 1481
@@ -749,7 +749,7 @@
             "last_commit": "2025-09-01T07:58:19Z",
             "owner": "hraban",
             "repo": "tomono",
-            "stars": 921
+            "stars": 920
           }
         },
         {
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:04.129Z",
+    "last_updated": "2026-08-13T23:12:19.504Z",
     "original_repository": "korfuri/awesome-monorepo",
     "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
     "enhanced_repository": "enhansome/enhansome-monorepo",
