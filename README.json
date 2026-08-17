@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:00:24Z",
+            "last_commit": "2026-08-17T20:45:02Z",
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18455
+            "stars": 18456
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T22:13:25Z",
+            "last_commit": "2026-08-17T22:00:43Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17508
+            "stars": 17513
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "PureScript",
-            "last_commit": "2026-08-04T21:48:01Z",
+            "last_commit": "2026-08-17T08:27:12Z",
             "owner": "purescript",
             "repo": "spago",
             "stars": 832
@@ -140,7 +140,7 @@
             "last_commit": "2025-06-19T09:10:48Z",
             "owner": "chaaz",
             "repo": "versio",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-14T19:13:35Z",
             "owner": "mateodelnorte",
             "repo": "meta",
-            "stars": 2215
+            "stars": 2216
           }
         },
         {
@@ -369,7 +369,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T22:40:57Z",
+            "last_commit": "2026-08-17T20:05:13Z",
             "owner": "microsoft",
             "repo": "VFSForGit",
             "stars": 6124
@@ -383,7 +383,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T19:47:25Z",
+            "last_commit": "2026-08-17T22:19:09Z",
             "owner": "josh-project",
             "repo": "josh",
             "stars": 1911
@@ -586,10 +586,10 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-16T22:45:45Z",
+            "last_commit": "2026-08-17T22:50:40Z",
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25826
+            "stars": 25833
           }
         },
         {
@@ -600,10 +600,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:21:46Z",
+            "last_commit": "2026-08-17T07:28:57Z",
             "owner": "berty",
             "repo": "berty",
-            "stars": 9276
+            "stars": 9278
           }
         },
         {
@@ -614,10 +614,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:36:44Z",
+            "last_commit": "2026-08-17T20:15:44Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5550
+            "stars": 5553
           }
         },
         {
@@ -628,7 +628,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-17T15:06:04Z",
+            "last_commit": "2026-08-17T15:26:52Z",
             "owner": "m3db",
             "repo": "m3",
             "stars": 4892
@@ -642,7 +642,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T16:19:11Z",
+            "last_commit": "2026-08-17T04:36:49Z",
             "owner": "habitat-sh",
             "repo": "habitat",
             "stars": 2746
@@ -656,7 +656,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-10T02:52:11Z",
+            "last_commit": "2026-08-17T03:47:56Z",
             "owner": "celo-org",
             "repo": "celo-monorepo",
             "stars": 801
@@ -735,7 +735,7 @@
             "last_commit": "2026-08-16T21:02:49Z",
             "owner": "bazel-contrib",
             "repo": "rules_go",
-            "stars": 1481
+            "stars": 1482
           }
         },
         {
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:48:06.405Z",
+    "last_updated": "2026-08-17T22:51:46.371Z",
     "original_repository": "korfuri/awesome-monorepo",
     "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
     "enhanced_repository": "enhansome/enhansome-monorepo",
