@@ -12,10 +12,10 @@
             "archived": false,
             "id": 79723839,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T22:05:24Z",
+            "last_commit": "2026-08-20T22:30:50Z",
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18457
+            "stars": 18455
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 3386088,
             "language": "C++",
-            "last_commit": "2026-08-19T22:37:02Z",
+            "last_commit": "2026-08-20T22:47:31Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17530
+            "stars": 17541
           }
         },
         {
@@ -388,7 +388,7 @@
                     "archived": false,
                     "id": 80058269,
                     "language": "C#",
-                    "last_commit": "2026-08-19T16:19:37Z",
+                    "last_commit": "2026-08-20T16:55:51Z",
                     "owner": "microsoft",
                     "repo": "VFSForGit",
                     "stars": 6124
@@ -403,7 +403,7 @@
                     "archived": false,
                     "id": 60837945,
                     "language": "Rust",
-                    "last_commit": "2026-08-19T21:25:27Z",
+                    "last_commit": "2026-08-20T21:43:49Z",
                     "owner": "josh-project",
                     "repo": "josh",
                     "stars": 1914
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 4542716,
             "language": "Nix",
-            "last_commit": "2026-08-19T22:51:30Z",
+            "last_commit": "2026-08-20T22:56:24Z",
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25854
+            "stars": 25868
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-17T07:28:57Z",
             "owner": "berty",
             "repo": "berty",
-            "stars": 9277
+            "stars": 9274
           }
         },
         {
@@ -657,10 +657,10 @@
             "archived": false,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T20:15:48Z",
+            "last_commit": "2026-08-20T21:49:52Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5556
+            "stars": 5558
           }
         },
         {
@@ -687,7 +687,7 @@
             "archived": false,
             "id": 36098429,
             "language": "Rust",
-            "last_commit": "2026-08-19T16:03:33Z",
+            "last_commit": "2026-08-20T15:52:44Z",
             "owner": "habitat-sh",
             "repo": "habitat",
             "stars": 2747
@@ -702,7 +702,7 @@
             "archived": false,
             "id": 197642503,
             "language": "Solidity",
-            "last_commit": "2026-08-17T03:47:56Z",
+            "last_commit": "2026-08-20T18:42:37Z",
             "owner": "celo-org",
             "repo": "celo-monorepo",
             "stars": 801
@@ -783,7 +783,7 @@
             "archived": false,
             "id": 53954979,
             "language": "Go",
-            "last_commit": "2026-08-19T11:53:10Z",
+            "last_commit": "2026-08-20T20:58:38Z",
             "owner": "bazel-contrib",
             "repo": "rules_go",
             "stars": 1482
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:52:33.347Z",
+    "last_updated": "2026-08-20T22:56:36.026Z",
     "original_repository": "korfuri/awesome-monorepo",
     "original_repository_id": 97834790,
     "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
