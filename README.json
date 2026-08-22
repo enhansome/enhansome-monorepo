@@ -12,7 +12,7 @@
             "archived": false,
             "id": 79723839,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:15:18Z",
+            "last_commit": "2026-08-22T00:30:34Z",
             "owner": "teambit",
             "repo": "bit",
             "stars": 18458
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 3386088,
             "language": "C++",
-            "last_commit": "2026-08-21T21:24:42Z",
+            "last_commit": "2026-08-22T20:27:57Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17547
+            "stars": 17550
           }
         },
         {
@@ -403,7 +403,7 @@
                     "archived": false,
                     "id": 60837945,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T22:40:34Z",
+                    "last_commit": "2026-08-22T19:37:10Z",
                     "owner": "josh-project",
                     "repo": "josh",
                     "stars": 1913
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 4542716,
             "language": "Nix",
-            "last_commit": "2026-08-21T22:51:28Z",
+            "last_commit": "2026-08-22T22:50:04Z",
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25888
+            "stars": 25892
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-17T07:28:57Z",
             "owner": "berty",
             "repo": "berty",
-            "stars": 9276
+            "stars": 9278
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-21T20:15:56Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5558
+            "stars": 5559
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-17T15:26:52Z",
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4895
+            "stars": 4894
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-21T21:34:15Z",
             "owner": "habitat-sh",
             "repo": "habitat",
-            "stars": 2747
+            "stars": 2748
           }
         },
         {
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:52:27.476Z",
+    "last_updated": "2026-08-22T22:50:09.956Z",
     "original_repository": "korfuri/awesome-monorepo",
     "original_repository_id": 97834790,
     "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
