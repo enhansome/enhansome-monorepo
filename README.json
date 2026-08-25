@@ -27,10 +27,10 @@
             "archived": false,
             "id": 3386088,
             "language": "C++",
-            "last_commit": "2026-08-24T20:04:05Z",
+            "last_commit": "2026-08-25T05:30:55Z",
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17560
+            "stars": 17561
           }
         },
         {
@@ -391,7 +391,7 @@
                     "last_commit": "2026-08-20T16:55:51Z",
                     "owner": "microsoft",
                     "repo": "VFSForGit",
-                    "stars": 6131
+                    "stars": 6132
                   }
                 },
                 {
@@ -656,10 +656,10 @@
             "archived": false,
             "id": 4542716,
             "language": "Nix",
-            "last_commit": "2026-08-24T22:52:20Z",
+            "last_commit": "2026-08-25T05:46:56Z",
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25928
+            "stars": 25931
           }
         },
         {
@@ -686,7 +686,7 @@
             "archived": false,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:16:17Z",
+            "last_commit": "2026-08-25T04:16:04Z",
             "owner": "ProtonMail",
             "repo": "WebClients",
             "stars": 5559
@@ -716,7 +716,7 @@
             "archived": false,
             "id": 36098429,
             "language": "Rust",
-            "last_commit": "2026-08-24T16:19:29Z",
+            "last_commit": "2026-08-25T04:34:17Z",
             "owner": "habitat-sh",
             "repo": "habitat",
             "stars": 2748
@@ -883,7 +883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:54:34.814Z",
+    "last_updated": "2026-08-25T05:47:30.254Z",
     "original_repository": "korfuri/awesome-monorepo",
     "original_repository_id": 97834790,
     "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
