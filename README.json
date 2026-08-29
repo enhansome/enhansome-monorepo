@@ -60,7 +60,7 @@
             "open_issues": 2932,
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17588,
+            "stars": 17589,
             "topics": [
               "c-plus-plus",
               "declarative-language",
@@ -1090,7 +1090,7 @@
             "language": "Nix",
             "license": "MIT",
             "last_commit": "2026-08-29T03:37:30Z",
-            "open_issues": 20954,
+            "open_issues": 20957,
             "owner": "NixOS",
             "repo": "nixpkgs",
             "stars": 25964,
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:48:29.142Z",
+    "last_updated": "2026-08-29T04:15:36.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monorepo tools, software and architectures.",

@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,802 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
 
 English | [简体中文](./README-zh-CN.md)
 
@@ -24,7 +24,7 @@ English | [简体中文](./README-zh-CN.md)
 ## Build systems & dependency management tools
 
 * [Bit](https://github.com/teambit/bit) ⭐ 18,466 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-28 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [Nix](https://github.com/NixOS/nix) ⭐ 17,588 | 🐛 2,932 | 🌐 C++ | 📅 2026-08-28 is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Nix](https://github.com/NixOS/nix) ⭐ 17,589 | 🐛 2,932 | 🌐 C++ | 📅 2026-08-28 is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) ⭐ 2,430 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-01 is a super-powered JavaScript project management.
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel) ⭐ 1,240 | 🐛 13 | 📅 2024-11-13
 * [OAO](https://github.com/guigrpa/oao) ⭐ 850 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03 is a Yarn-based, opinionated JavaScript monorepo management tool.
@@ -139,7 +139,7 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Notable public monorepos
 
-* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 25,964 | 🐛 20,954 | 🌐 Nix | 📅 2026-08-29
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 25,964 | 🐛 20,957 | 🌐 Nix | 📅 2026-08-29
 * [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,278 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-17
 * [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,565 | 🐛 145 | 🌐 TypeScript | 📅 2026-08-28
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,895 | 🐛 225 | 🌐 Go | 📅 2026-08-17
