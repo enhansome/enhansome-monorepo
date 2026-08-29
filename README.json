@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead.",
+            "homepage": "https://bit.dev",
             "id": 79723839,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:14:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:30:27Z",
+            "open_issues": 86,
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18464
+            "stars": 18466,
+            "topics": [
+              "ai",
+              "collaboration",
+              "component-driven",
+              "composable",
+              "composable-architecture",
+              "distributed",
+              "front-end",
+              "javascript",
+              "micro-frontend",
+              "micro-services",
+              "monorepo",
+              "multirepo",
+              "multirepo-maintenance",
+              "node-js",
+              "polyrepo",
+              "react",
+              "service-oriented-architecture",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -26,12 +51,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nix, the purely functional package manager",
+            "homepage": "https://nixos.org/",
             "id": 3386088,
             "language": "C++",
-            "last_commit": "2026-08-28T02:10:45Z",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-08-28T18:19:39Z",
+            "open_issues": 2932,
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17585
+            "stars": 17588,
+            "topics": [
+              "c-plus-plus",
+              "declarative-language",
+              "functional-programming",
+              "nix",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -42,12 +78,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Super-powered JavaScript project management",
+            "homepage": null,
             "id": 98847801,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-01T08:17:55Z",
+            "open_issues": 77,
             "owner": "boltpkg",
             "repo": "bolt",
-            "stars": 2430
+            "stars": 2430,
+            "topics": [
+              "javascript",
+              "npm",
+              "package-manager",
+              "project-management",
+              "workspaces",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -58,12 +106,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Bazel rules, tooling and resources.",
+            "homepage": "https://jin.github.io/awesome-bazel",
             "id": 108140785,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-11-13T07:46:30Z",
+            "open_issues": 13,
             "owner": "jin",
             "repo": "awesome-bazel",
-            "stars": 1240
+            "stars": 1240,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bazel",
+              "bazel-rules",
+              "build",
+              "build-system",
+              "continuous-integration",
+              "list",
+              "skylark"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -74,12 +137,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Yarn-based, opinionated monorepo management tool",
+            "homepage": null,
             "id": 81458892,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T23:47:34Z",
+            "open_issues": 17,
             "owner": "guigrpa",
             "repo": "oao",
-            "stars": 850
+            "stars": 850,
+            "topics": [
+              "git",
+              "monorepo",
+              "publish",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -90,12 +163,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍝 PureScript package manager and build tool",
+            "homepage": null,
             "id": 149850277,
             "language": "PureScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T08:27:12Z",
+            "open_issues": 40,
             "owner": "purescript",
             "repo": "spago",
-            "stars": 832
+            "stars": 832,
+            "topics": [
+              "build-tool",
+              "package-manager",
+              "package-sets",
+              "purescript"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -106,12 +189,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composer tools to maintain a monorepo",
+            "homepage": "https://www.tomasvotruba.cz/blog/2019/02/18/how-we-automated-shopsys-packages-release-from-2-days-to-1-console-command/",
             "id": 136765030,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-31T02:19:49Z",
+            "open_issues": 7,
             "owner": "symplify",
             "repo": "monorepo-builder",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "composer",
+              "monorepo",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -122,12 +214,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An incremental task runner for mono repositories.",
+            "homepage": null,
             "id": 130031126,
             "language": "Go",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-01T02:08:42Z",
+            "open_issues": 32,
             "owner": "simplesurance",
             "repo": "baur",
-            "stars": 379
+            "stars": 379,
+            "topics": [
+              "baur",
+              "build",
+              "ci",
+              "golang",
+              "monorepo"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -138,12 +241,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most flexible build tool for monorepo",
+            "homepage": "https://github.com/mbtproject",
             "id": 103133674,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-13T14:20:17Z",
+            "open_issues": 22,
             "owner": "mbtproject",
             "repo": "mbt",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "automation",
+              "build",
+              "build-tool",
+              "ci",
+              "cli",
+              "dependency-manager",
+              "deployment",
+              "devops",
+              "differential-builds",
+              "git",
+              "go",
+              "mbt",
+              "monorepo"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -154,12 +276,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A version number manager",
+            "homepage": null,
             "id": 291630527,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-19T09:10:48Z",
+            "open_issues": 13,
             "owner": "chaaz",
             "repo": "versio",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "cicd",
+              "deployments",
+              "git",
+              "versioning"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -170,12 +302,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to determine which Go packages need to be rebuilt in a monorepo",
+            "homepage": null,
             "id": 124924321,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-01-15T16:36:00Z",
+            "open_issues": 3,
             "owner": "kynrai",
             "repo": "tainted",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "build-automation",
+              "build-tool",
+              "diff",
+              "go",
+              "golang",
+              "repo",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -186,12 +331,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tool for managing monorepos",
+            "homepage": null,
             "id": 278150413,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-03T12:25:03Z",
+            "open_issues": 0,
             "owner": "Farfetch",
             "repo": "garment",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "build-system",
+              "farfetch",
+              "hacktoberfest",
+              "javascript",
+              "monorepo",
+              "nodejs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -202,12 +360,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webpack plugin to make inheritable npm packages / webpack configs, (a)sync glob imports, and mono repo apps ",
+            "homepage": "https://layer-pack.github.io/layer-pack/",
             "id": 166390187,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-18T05:59:23Z",
+            "open_issues": 0,
             "owner": "layer-pack",
             "repo": "layer-pack",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "boilerplate",
+              "codepipeline",
+              "extend",
+              "glob",
+              "glob-imports",
+              "inheritance",
+              "inherited-packages",
+              "modularization",
+              "mono-repository",
+              "monorepo",
+              "namespace",
+              "sass",
+              "webpack",
+              "webpack-glob"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -218,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and agnostic monorepo build tool",
+            "homepage": null,
             "id": 296402133,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:26:03Z",
+            "open_issues": 1,
             "owner": "frantzmiccoli",
             "repo": "drkns",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         }
@@ -240,12 +423,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?",
+            "homepage": null,
             "id": 76408906,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:35:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T10:51:33Z",
+            "open_issues": 34,
             "owner": "mateodelnorte",
             "repo": "meta",
-            "stars": 2217
+            "stars": 2217,
+            "topics": [
+              "git",
+              "meta",
+              "productivity",
+              "repository",
+              "repository-utilities"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -256,12 +450,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Consistent dependency versions in large JavaScript Monorepos.",
+            "homepage": "https://syncpack.dev/",
             "id": 100626346,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-09T11:17:09Z",
+            "open_issues": 19,
             "owner": "JamieMason",
             "repo": "syncpack",
-            "stars": 2087
+            "stars": 2087,
+            "topics": [
+              "bun",
+              "catalogs",
+              "dependencies",
+              "linter",
+              "monorepo",
+              "npm",
+              "nx",
+              "pnpm",
+              "semver",
+              "turborepo",
+              "versions",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -272,12 +484,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏃⛰ Ultra fast monorepo script runner and build tool",
+            "homepage": "https://www.npmjs.com/package/ultra-runner",
             "id": 235535078,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:05:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:12:17Z",
+            "open_issues": 59,
             "owner": "folke",
             "repo": "ultra-runner",
-            "stars": 1246
+            "stars": 1246,
+            "topics": [
+              "build",
+              "build-tool",
+              "concurrent",
+              "hacktoberfest",
+              "lerna",
+              "monorepo",
+              "npm",
+              "npm-scripts",
+              "parallel",
+              "pnpm",
+              "script-runn",
+              "script-runner",
+              "yarn-workspaces"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -288,12 +519,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Yarn-based, opinionated monorepo management tool",
+            "homepage": null,
             "id": 81458892,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T23:47:34Z",
+            "open_issues": 17,
             "owner": "guigrpa",
             "repo": "oao",
-            "stars": 850
+            "stars": 850,
+            "topics": [
+              "git",
+              "monorepo",
+              "publish",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -304,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command runner for Yarn workspaces. Dependency aware.",
+            "homepage": null,
             "id": 111136511,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-04T21:57:58Z",
+            "open_issues": 24,
             "owner": "hfour",
             "repo": "wsrun",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -320,12 +566,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Copy commits between repositories · git → git, git → hg, hg → hg, or hg → git",
+            "homepage": null,
             "id": 53975480,
             "language": "Hack",
+            "license": "MIT",
             "last_commit": "2023-06-07T19:47:15Z",
+            "open_issues": 10,
             "owner": "facebookarchive",
             "repo": "fbshipit",
-            "stars": 395
+            "stars": 395,
+            "topics": [
+              "commits",
+              "facebook",
+              "git",
+              "hack",
+              "hacklang",
+              "mercurial",
+              "sync"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -336,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An npm-based task runner",
+            "homepage": "https://github.com/FormidableLabs/builder",
             "id": 44566613,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-03T22:32:10Z",
+            "open_issues": 48,
             "owner": "FormidableLabs",
             "repo": "builder",
-            "stars": 314
+            "stars": 314,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -352,12 +616,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run scripts in monorepo with colors, streaming and separated panes",
+            "homepage": null,
             "id": 216647036,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-11T14:39:54Z",
+            "open_issues": 15,
             "owner": "Akryum",
             "repo": "monorepo-run",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "lerna",
+              "monorepo",
+              "script"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -368,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Link and control a bunch of repositories.",
+            "homepage": null,
             "id": 85118612,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-03T22:32:13Z",
+            "open_issues": 10,
             "owner": "FormidableLabs",
             "repo": "lank",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -384,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sailboat: Monorepo 👉 many repos (Git) exporter. This repository is automatically exported from https://github.com/adeira/universe via Shipit (yes, it exported itself :slightly_smiling_face:)",
+            "homepage": null,
             "id": 279800870,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-14T16:55:02Z",
+            "open_issues": 0,
             "owner": "adeira",
             "repo": "shipit",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         }
@@ -410,12 +693,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Virtual File System for Git: Enable Git at Enterprise Scale",
+                    "homepage": null,
                     "id": 80058269,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T18:54:19Z",
+                    "open_issues": 323,
                     "owner": "microsoft",
                     "repo": "VFSForGit",
-                    "stars": 6136
+                    "stars": 6136,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 },
@@ -426,12 +714,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Git at scale platform",
+                    "homepage": "https://josh-project.dev",
                     "id": 60837945,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T22:54:20Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:20:22Z",
+                    "open_issues": 118,
                     "owner": "josh-project",
                     "repo": "josh",
-                    "stars": 1916
+                    "stars": 1916,
+                    "topics": [
+                      "git",
+                      "monorepo",
+                      "scm",
+                      "workflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 },
@@ -442,12 +740,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Split a repository to read-only standalone repositories",
+                    "homepage": null,
                     "id": 59808890,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-11-30T16:05:39Z",
+                    "open_issues": 23,
                     "owner": "splitsh",
                     "repo": "lite",
-                    "stars": 1612
+                    "stars": 1612,
+                    "topics": [
+                      "git",
+                      "monolithic",
+                      "monorepo",
+                      "split",
+                      "subtree",
+                      "synchronization"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 },
@@ -463,24 +773,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Automate and simplify the process of managing one-way read-only subtree splits.",
+                        "homepage": null,
                         "id": 5026403,
                         "language": "Shell",
+                        "license": "MIT",
                         "last_commit": "2018-10-03T00:28:38Z",
+                        "open_issues": 18,
                         "owner": "dflydev",
                         "repo": "git-subsplit",
-                        "stars": 327
+                        "stars": 327,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:14:21.081Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.",
+                    "homepage": null,
                     "id": 185096,
                     "language": "Shell",
+                    "license": "GPL-2.0",
                     "last_commit": "2017-07-20T09:27:11Z",
+                    "open_issues": 8,
                     "owner": "apenwarr",
                     "repo": "git-subtree",
-                    "stars": 1384
+                    "stars": 1384,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 },
@@ -491,12 +811,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of custom git commands that I use to maintain my monorepo. Includes support for bidirecional sync between a monorepo, and multiple subprojects",
+                    "homepage": null,
                     "id": 265081944,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2021-06-14T17:54:56Z",
+                    "open_issues": 15,
                     "owner": "nikita-skobov",
                     "repo": "monorepo-git-tools",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 },
@@ -507,12 +832,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a simple tool to check changes between git commits for go source files. it will resolve package dependencies. this is helpful in large projects ci, you will only need to run tests on changed/related files.",
+                    "homepage": null,
                     "id": 258948162,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-12-27T15:08:27Z",
+                    "open_issues": 1,
                     "owner": "joesonw",
                     "repo": "go-diff",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "ci",
+                      "devop",
+                      "golang"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 }
@@ -537,12 +871,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Watches files and records, or triggers actions, when they change. ",
+                    "homepage": "https://facebook.github.io/watchman/",
                     "id": 6930489,
                     "language": "C++",
-                    "last_commit": "2026-08-27T22:35:23Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T01:51:05Z",
+                    "open_issues": 258,
                     "owner": "facebook",
                     "repo": "watchman",
-                    "stars": 13695
+                    "stars": 13695,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
                 }
@@ -571,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WARNING: THE RIETVELD SERVER MAY DISAPPEAR! See top of README.md. Code Review, hosted on Google App Engine",
+                "homepage": "https://codereview.appspot.com",
                 "id": 33051808,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-01T05:00:16Z",
+                "open_issues": 242,
                 "owner": "rietveld-codereview",
                 "repo": "rietveld",
-                "stars": 586
+                "stars": 586,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
             },
@@ -587,12 +931,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":white_check_mark: Assign pull request reviewers intelligently.",
+                "homepage": "https://pull-review.herokuapp.com",
                 "id": 83502071,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-02T12:20:06Z",
+                "open_issues": 34,
                 "owner": "imsky",
                 "repo": "pull-review",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "github",
+                  "hacktoberfest",
+                  "hubot",
+                  "pull-requests",
+                  "review",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
             }
@@ -610,12 +966,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":shipit: Dynamically generate Buildkite pipelines based on project changes",
+                "homepage": null,
                 "id": 120096012,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T02:34:10Z",
+                "open_issues": 9,
                 "owner": "jwplayer",
                 "repo": "buildpipe-buildkite-plugin",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "buildkite",
+                  "buildkite-plugin",
+                  "cicd",
+                  "monorepo"
+                ]
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
             },
@@ -626,12 +992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Bazel with Travis-CI",
+                "homepage": null,
                 "id": 39652039,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-10-05T23:49:01Z",
+                "open_issues": 0,
                 "owner": "korfuri",
                 "repo": "bazel-travis",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
             }
@@ -649,12 +1020,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CODEOWNERS solution for mono repos",
+                "homepage": "https://gagoar.github.io/codeowners-generator/",
                 "id": 283064170,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T19:14:42Z",
+                "open_issues": 20,
                 "owner": "gagoar",
                 "repo": "codeowners-generator",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "cli",
+                  "codeowners",
+                  "codeowners-files",
+                  "codeowners-generator",
+                  "monorepo"
+                ]
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
             },
@@ -665,12 +1047,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Github Action to enforce file level write access for monorepos",
+                "homepage": null,
                 "id": 273917983,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-05T04:09:34Z",
+                "open_issues": 4,
                 "owner": "geritol",
                 "repo": "write-guard",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "access-control",
+                  "github-actions",
+                  "monorepos",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
             }
@@ -692,12 +1084,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nix Packages collection & NixOS",
+            "homepage": null,
             "id": 4542716,
             "language": "Nix",
-            "last_commit": "2026-08-28T06:09:38Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:37:30Z",
+            "open_issues": 20954,
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25960
+            "stars": 25964,
+            "topics": [
+              "hacktoberfest",
+              "linux",
+              "nix",
+              "nixos",
+              "nixpkgs"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -708,12 +1111,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+            "homepage": "https://berty.tech",
             "id": 141089889,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T07:28:57Z",
+            "open_issues": 87,
             "owner": "berty",
             "repo": "berty",
-            "stars": 9277
+            "stars": 9278,
+            "topics": [
+              "android",
+              "berty",
+              "censorship",
+              "crdt",
+              "cybersecurity",
+              "encryption",
+              "gomobile",
+              "ios",
+              "ipfs",
+              "libp2p",
+              "messaging",
+              "mobile-app",
+              "monorepo",
+              "offline-first",
+              "orbitdb",
+              "p2p",
+              "privacy",
+              "react-native",
+              "surveillance"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -724,12 +1152,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepo hosting the proton web clients",
+            "homepage": null,
             "id": 60692320,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:16:04Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:16:35Z",
+            "open_issues": 145,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5562
+            "stars": 5565,
+            "topics": [
+              "monorepo",
+              "pgp",
+              "protoncalendar",
+              "protoncontacts",
+              "protondrive",
+              "protonmail",
+              "react",
+              "webmail",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -740,12 +1183,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",
+            "homepage": "https://m3db.io/",
             "id": 61153677,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T15:26:52Z",
+            "open_issues": 225,
             "owner": "m3db",
             "repo": "m3",
-            "stars": 4895
+            "stars": 4895,
+            "topics": [
+              "aggregator",
+              "graphite",
+              "kubernetes",
+              "m3",
+              "metrics",
+              "prometheus",
+              "query-engine",
+              "tsdb"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -756,12 +1213,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern applications with built-in automation",
+            "homepage": "https://www.habitat.sh",
             "id": 36098429,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:19:16Z",
+            "open_issues": 19,
             "owner": "habitat-sh",
             "repo": "habitat",
-            "stars": 2750
+            "stars": 2750,
+            "topics": [
+              "automation",
+              "choreographer",
+              "configuration-management",
+              "containers",
+              "distributed-systems",
+              "package-management",
+              "package-manager",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -772,12 +1243,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for core projects comprising the Celo platform",
+            "homepage": "https://celo.org",
             "id": 197642503,
             "language": "Solidity",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T18:42:37Z",
+            "open_issues": 44,
             "owner": "celo-org",
             "repo": "celo-monorepo",
-            "stars": 803
+            "stars": 803,
+            "topics": [
+              "blockchain",
+              "celo",
+              "crypto",
+              "cryptocurrency",
+              "dapp",
+              "ethereum",
+              "financial-inclusion",
+              "smart-contracts",
+              "stablecoin"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -788,12 +1274,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Working examples of Google's Open Source stack and deployment to the cloud.",
+            "homepage": null,
             "id": 122602787,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-05T20:27:56Z",
+            "open_issues": 46,
             "owner": "google",
             "repo": "startup-os",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "bazel",
+              "cpp",
+              "dagger",
+              "firebase",
+              "firestore",
+              "grpc",
+              "grpc-java",
+              "java",
+              "protocol-buffers"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -804,12 +1305,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepo Playground with GraphQL, React, React Native, Relay Modern, TypeScript and Jest",
+            "homepage": null,
             "id": 155462094,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-23T00:54:13Z",
+            "open_issues": 2,
             "owner": "entria",
             "repo": "entria-fullstack",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "babel",
+              "babel7",
+              "graphql",
+              "jest",
+              "lerna",
+              "monorepo",
+              "react",
+              "react-native",
+              "relaymodern",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -820,12 +1337,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A monorepo that holds all of Foursquare's opensource projects",
+            "homepage": null,
             "id": 48192426,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-30T18:02:04Z",
+            "open_issues": 21,
             "owner": "foursquare",
             "repo": "fsqio",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "foursquare",
+              "mongodb",
+              "monorepo",
+              "pants",
+              "rogue",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -836,12 +1365,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived public monorepo of go code",
+            "homepage": "https://stellar.org/developers",
             "id": 1103377857,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-10T10:05:35Z",
+            "open_issues": 0,
             "owner": "stellar",
             "repo": "go",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "deprecated",
+              "horizon",
+              "stellar"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         }
@@ -858,12 +1398,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go rules for Bazel",
+            "homepage": null,
             "id": 53954979,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:56:55Z",
+            "open_issues": 497,
             "owner": "bazel-contrib",
             "repo": "rules_go",
-            "stars": 1483
+            "stars": 1483,
+            "topics": [
+              "bazel",
+              "bazel-rules",
+              "cgo",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -874,12 +1425,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi- To Mono-repository merge",
+            "homepage": "https://tomono.0brg.net",
             "id": 49424963,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2025-09-01T07:58:19Z",
+            "open_issues": 4,
             "owner": "hraban",
             "repo": "tomono",
-            "stars": 920
+            "stars": 921,
+            "topics": [
+              "emacs",
+              "git",
+              "literate-programming",
+              "monorepo-tooling",
+              "monorepository",
+              "noweb",
+              "org-babel"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -890,12 +1454,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[READ-ONLY] Tools for building and splitting monolithic repository from existing packages (with their history unchanged). This package is used for splitting our monorepo and we share it with our community as it is. We do not intend to support or develop it any further. Feel free to fork it and adjust for your own need.",
+            "homepage": null,
             "id": 121015671,
             "language": "Shell",
-            "last_commit": "2026-08-26T20:42:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T08:15:30Z",
+            "open_issues": 1,
             "owner": "shopsys",
             "repo": "monorepo-tools",
-            "stars": 698
+            "stars": 698,
+            "topics": [
+              "git-history",
+              "monolithic-repository",
+              "monorepo",
+              "split-monorepo"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -906,12 +1480,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migration tools for Bazel",
+            "homepage": null,
             "id": 93647440,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-30T13:22:25Z",
+            "open_issues": 43,
             "owner": "bazelbuild",
             "repo": "migration-tooling",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "bazel",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         },
@@ -922,12 +1504,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scripts to migrate to a monorepo",
+            "homepage": "https://fastlane.tools",
             "id": 50223557,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-07-16T18:22:56Z",
+            "open_issues": 1,
             "owner": "fastlane",
             "repo": "monorepo",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
         }
@@ -936,15 +1523,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:14:21.081Z",
+    "last_updated": "2026-08-29T03:48:29.142Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Monorepo tools, software and architectures.",
+      "homepage": null,
       "id": 97834790,
       "language": null,
+      "license": null,
       "last_commit": "2024-08-16T14:36:26Z",
+      "open_issues": 28,
       "owner": "korfuri",
       "repo": "awesome-monorepo",
-      "stars": 5858
+      "stars": 5858,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "monorepo"
+      ]
     },
     "original_repository_sha": "2d1d1b96df9e845a035b351675de660c9fd752cf",
     "enhanced_repository": "enhansome/enhansome-monorepo",
