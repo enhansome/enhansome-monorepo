@@ -19,7 +19,7 @@
             "open_issues": 69,
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18475,
+            "stars": 18476,
             "topics": [
               "ai",
               "collaboration",
@@ -56,11 +56,11 @@
             "id": 3386088,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-12T00:10:46Z",
-            "open_issues": 2951,
+            "last_commit": "2026-09-12T22:57:31Z",
+            "open_issues": 2953,
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17674,
+            "stars": 17686,
             "topics": [
               "c-plus-plus",
               "declarative-language",
@@ -702,7 +702,7 @@
                     "open_issues": 318,
                     "owner": "microsoft",
                     "repo": "VFSForGit",
-                    "stars": 6135,
+                    "stars": 6134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
@@ -719,8 +719,8 @@
                     "id": 60837945,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T16:28:27Z",
-                    "open_issues": 82,
+                    "last_commit": "2026-09-12T14:36:47Z",
+                    "open_issues": 80,
                     "owner": "josh-project",
                     "repo": "josh",
                     "stars": 1935,
@@ -876,7 +876,7 @@
                     "id": 6930489,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T16:36:42Z",
+                    "last_commit": "2026-09-12T23:34:45Z",
                     "open_issues": 258,
                     "owner": "facebook",
                     "repo": "watchman",
@@ -1089,11 +1089,11 @@
             "id": 4542716,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-12T00:29:24Z",
-            "open_issues": 21154,
+            "last_commit": "2026-09-12T23:52:46Z",
+            "open_issues": 21213,
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 26097,
+            "stars": 26106,
             "topics": [
               "hacktoberfest",
               "linux",
@@ -1161,7 +1161,7 @@
             "open_issues": 156,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5584,
+            "stars": 5586,
             "topics": [
               "monorepo",
               "pgp",
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:29:46.672Z",
+    "last_updated": "2026-09-13T00:09:05.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monorepo tools, software and architectures.",
@@ -1535,7 +1535,7 @@
       "open_issues": 30,
       "owner": "korfuri",
       "repo": "awesome-monorepo",
-      "stars": 5858,
+      "stars": 5859,
       "topics": [
         "awesome",
         "awesome-list",
