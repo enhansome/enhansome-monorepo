@@ -56,11 +56,11 @@
             "id": 3386088,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-26T22:00:56Z",
-            "open_issues": 2981,
+            "last_commit": "2026-09-27T22:13:34Z",
+            "open_issues": 2984,
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17785,
+            "stars": 17790,
             "topics": [
               "c-plus-plus",
               "declarative-language",
@@ -428,7 +428,7 @@
             "id": 76408906,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T01:50:22Z",
+            "last_commit": "2026-09-27T06:28:38Z",
             "open_issues": 34,
             "owner": "mateodelnorte",
             "repo": "meta",
@@ -459,7 +459,7 @@
             "open_issues": 19,
             "owner": "JamieMason",
             "repo": "syncpack",
-            "stars": 2097,
+            "stars": 2098,
             "topics": [
               "bun",
               "catalogs",
@@ -719,11 +719,11 @@
                     "id": 60837945,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T19:38:39Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-09-27T16:13:14Z",
+                    "open_issues": 85,
                     "owner": "josh-project",
                     "repo": "josh",
-                    "stars": 1946,
+                    "stars": 1947,
                     "topics": [
                       "git",
                       "monorepo",
@@ -876,7 +876,7 @@
                     "id": 6930489,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T16:35:10Z",
+                    "last_commit": "2026-09-27T16:37:09Z",
                     "open_issues": 259,
                     "owner": "facebook",
                     "repo": "watchman",
@@ -1089,11 +1089,11 @@
             "id": 4542716,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-27T00:35:42Z",
-            "open_issues": 21517,
+            "last_commit": "2026-09-28T00:50:25Z",
+            "open_issues": 21572,
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 26262,
+            "stars": 26268,
             "topics": [
               "hacktoberfest",
               "linux",
@@ -1120,7 +1120,7 @@
             "open_issues": 95,
             "owner": "berty",
             "repo": "berty",
-            "stars": 9306,
+            "stars": 9309,
             "topics": [
               "android",
               "berty",
@@ -1161,7 +1161,7 @@
             "open_issues": 157,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5618,
+            "stars": 5621,
             "topics": [
               "monorepo",
               "pgp",
@@ -1219,7 +1219,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T04:33:08Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "habitat-sh",
             "repo": "habitat",
             "stars": 2755,
@@ -1326,34 +1326,6 @@
               "react-native",
               "relaymodern",
               "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T06:14:21.081Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Foursquare's opensource projects",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A monorepo that holds all of Foursquare's opensource projects",
-            "homepage": null,
-            "id": 48192426,
-            "language": "Scala",
-            "license": "Apache-2.0",
-            "last_commit": "2024-07-30T18:02:04Z",
-            "open_issues": 21,
-            "owner": "foursquare",
-            "repo": "fsqio",
-            "stars": 257,
-            "topics": [
-              "foursquare",
-              "mongodb",
-              "monorepo",
-              "pants",
-              "rogue",
-              "scala"
             ]
           },
           "first_seen": "2026-08-28T06:14:21.081Z"
@@ -1523,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:47:36.818Z",
+    "last_updated": "2026-09-28T01:03:02.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monorepo tools, software and architectures.",
