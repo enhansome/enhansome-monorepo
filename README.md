@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,107 | 🐛 20 | 🌐 Python | 📅 2026-09-29.
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,359 | 🐛 20 | 🌐 Python | 📅 2026-09-29.
 
 English | [简体中文](./README-zh-CN.md)
 
@@ -23,13 +23,13 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Build systems & dependency management tools
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,489 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-30 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [Nix](https://github.com/NixOS/nix) ⭐ 17,804 | 🐛 2,984 | 🌐 C++ | 📅 2026-09-28 is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,490 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-30 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
+* [Nix](https://github.com/NixOS/nix) ⭐ 17,802 | 🐛 2,986 | 🌐 C++ | 📅 2026-09-30 is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) ⭐ 2,431 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-01 is a super-powered JavaScript project management.
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel) ⭐ 1,242 | 🐛 13 | 📅 2024-11-13
 * [OAO](https://github.com/guigrpa/oao) ⭐ 850 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03 is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [Spago](https://github.com/spacchetti/spago) ⭐ 831 | 🐛 41 | 🌐 PureScript | 📅 2026-09-26 is a PureScript package manager and build tool powered by Dhall and package-sets.
-* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) ⭐ 528 | 🐛 7 | 🌐 PHP | 📅 2026-07-31 is a PHP monorepo management tool.
+* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) ⭐ 529 | 🐛 7 | 🌐 PHP | 📅 2026-07-31 is a PHP monorepo management tool.
 * [baur](https://github.com/simplesurance/baur) ⭐ 379 | 🐛 33 | 🌐 Go | 📅 2026-09-25 builds only changed applications in a monorepo branch and manages build artifacts
 * [MBT](https://github.com/mbtproject/mbt) ⭐ 219 | 🐛 22 | 🌐 Go | 📅 2023-10-13 is a build tool with differential build support.
 * [Versio](https://github.com/chaaz/versio) ⭐ 126 | 🐛 13 | 🌐 Rust | 📅 2025-06-19 updates all version numbers in monorepo projects based on [conventional commits](https://www.conventionalcommits.org/), and can generate changelogs and tags.
@@ -78,8 +78,8 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [GVFS](https://github.com/Microsoft/GVFS) ⭐ 6,135 | 🐛 317 | 🌐 C# | 📅 2026-09-29 virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
-* [josh](https://github.com/esrlabs/josh) ⭐ 1,949 | 🐛 85 | 🌐 Rust | 📅 2026-09-29 is a git server proxy enabling on-the-fly virtualization of repositories.
+* [GVFS](https://github.com/Microsoft/GVFS) ⭐ 6,137 | 🐛 320 | 🌐 C# | 📅 2026-09-29 virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
+* [josh](https://github.com/esrlabs/josh) ⭐ 1,950 | 🐛 83 | 🌐 Rust | 📅 2026-09-30 is a git server proxy enabling on-the-fly virtualization of repositories.
 * [splitsh-lite](https://github.com/splitsh/lite) ⭐ 1,613 | 🐛 23 | 🌐 Go | 📅 2025-11-30 is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 * [git subtree](https://github.com/apenwarr/git-subtree) ⭐ 1,385 | 🐛 8 | 🌐 Shell | 📅 2017-07-20 merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.
   * [git subsplit](https://github.com/dflydev/git-subsplit) ⭐ 327 | 🐛 18 | 🌐 Shell | 📅 2018-10-03 automates and simplifies the process of managing one-way read-only subtree splits.
@@ -107,7 +107,7 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [Watchman](https://github.com/facebook/watchman) ⭐ 13,720 | 🐛 259 | 🌐 C++ | 📅 2026-09-29, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
+* [Watchman](https://github.com/facebook/watchman) ⭐ 13,724 | 🐛 260 | 🌐 C++ | 📅 2026-09-30, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
 
 #### Scaling info
 
@@ -139,20 +139,20 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Notable public monorepos
 
-* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,288 | 🐛 21,640 | 🌐 Nix | 📅 2026-09-30
-* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,312 | 🐛 98 | 🌐 TypeScript | 📅 2026-09-29
-* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,624 | 🐛 158 | 🌐 TypeScript | 📅 2026-09-29
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,294 | 🐛 21,732 | 🌐 Nix | 📅 2026-10-01
+* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,310 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-30
+* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,625 | 🐛 158 | 🌐 TypeScript | 📅 2026-09-30
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,905 | 🐛 171 | 🌐 Go | 📅 2026-09-25
-* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,755 | 🐛 21 | 🌐 Rust | 📅 2026-09-29
-* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 807 | 🐛 38 | 🌐 Solidity | 📅 2026-09-25
+* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,755 | 🐛 21 | 🌐 Rust | 📅 2026-09-30
+* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 807 | 🐛 34 | 🌐 Solidity | 📅 2026-09-30
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os) ⚠️ Archived
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack) ⭐ 498 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28
-* [Foursquare's opensource projects](https://github.com/foursquare/fsqio) ⭐ 257 | 🐛 21 | 🌐 Scala | 📅 2024-07-30
+* [Foursquare's opensource projects](https://github.com/foursquare/fsqio) ⭐ 258 | 🐛 21 | 🌐 Scala | 📅 2024-07-30
 * [Stellar's Go monorepo](https://github.com/stellar/go) ⚠️ Archived
 
 ## Migration tools
 
-* [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) ⭐ 1,485 | 🐛 501 | 🌐 Go | 📅 2026-09-23 generates Bazel BUILD files automatically for Go packages.
+* [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) ⭐ 1,485 | 🐛 501 | 🌐 Go | 📅 2026-09-30 generates Bazel BUILD files automatically for Go packages.
 * [tomono](https://github.com/unravelin/tomono) ⭐ 923 | 🐛 4 | 🌐 CSS | 📅 2025-09-01 imports an existing set of Git repositories into a monorepo.
 * [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) ⭐ 698 | 🐛 1 | 🌐 Shell | 📅 2026-09-25 contains a set of tools for building and splitting a monolithic repository.
 * [Bazel's migration-tooling](https://github.com/bazelbuild/migration-tooling) ⚠️ Archived repository.
@@ -171,4 +171,4 @@ To the extent possible under law, Uriel Corfa has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
