@@ -57,10 +57,10 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-02T21:16:03Z",
-            "open_issues": 2995,
+            "open_issues": 2996,
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 17818,
+            "stars": 17820,
             "topics": [
               "c-plus-plus",
               "declarative-language",
@@ -168,8 +168,8 @@
             "id": 149850277,
             "language": "PureScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T10:34:00Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-03T02:40:52Z",
+            "open_issues": 42,
             "owner": "purescript",
             "repo": "spago",
             "stars": 831,
@@ -515,7 +515,7 @@
         {
           "node_type": "item",
           "title": "oao",
-          "description": null,
+          "description": "guigrpa/oao",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1080,7 +1080,7 @@
         {
           "node_type": "item",
           "title": "NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines",
-          "description": null,
+          "description": "NixOS/nixpkgs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1089,11 +1089,11 @@
             "id": 4542716,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:17:43Z",
-            "open_issues": 21781,
+            "last_commit": "2026-10-03T04:49:29Z",
+            "open_issues": 21800,
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 26324,
+            "stars": 26325,
             "topics": [
               "hacktoberfest",
               "linux",
@@ -1107,7 +1107,7 @@
         {
           "node_type": "item",
           "title": "Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf",
-          "description": null,
+          "description": "berty/berty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1148,7 +1148,7 @@
         {
           "node_type": "item",
           "title": "ProtonMail's monorepo (the proton web clients: mail, calendar...)",
-          "description": null,
+          "description": "ProtonMail/WebClients",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1161,7 +1161,7 @@
             "open_issues": 158,
             "owner": "ProtonMail",
             "repo": "WebClients",
-            "stars": 5624,
+            "stars": 5625,
             "topics": [
               "monorepo",
               "pgp",
@@ -1179,7 +1179,7 @@
         {
           "node_type": "item",
           "title": "M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform",
-          "description": null,
+          "description": "m3db/m3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1209,7 +1209,7 @@
         {
           "node_type": "item",
           "title": "Habitat's monorepo",
-          "description": null,
+          "description": "habitat-sh/habitat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1239,7 +1239,7 @@
         {
           "node_type": "item",
           "title": "Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)",
-          "description": null,
+          "description": "celo-org/celo-monorepo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1270,7 +1270,7 @@
         {
           "node_type": "item",
           "title": "startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo",
-          "description": null,
+          "description": "google/startup-os",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1301,7 +1301,7 @@
         {
           "node_type": "item",
           "title": "Entria's Full Stack Playground Monorepo",
-          "description": null,
+          "description": "entria/entria-fullstack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1333,7 +1333,7 @@
         {
           "node_type": "item",
           "title": "Foursquare's opensource projects",
-          "description": null,
+          "description": "foursquare/fsqio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1361,7 +1361,7 @@
         {
           "node_type": "item",
           "title": "Stellar's Go monorepo",
-          "description": null,
+          "description": "stellar/go",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1523,7 +1523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:19:04.285Z",
+    "last_updated": "2026-10-03T04:56:56.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monorepo tools, software and architectures.",
@@ -1535,7 +1535,7 @@
       "open_issues": 31,
       "owner": "korfuri",
       "repo": "awesome-monorepo",
-      "stars": 5872,
+      "stars": 5873,
       "topics": [
         "awesome",
         "awesome-list",
