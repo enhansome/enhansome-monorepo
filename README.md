@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,422 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,515 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
 
 English | [简体中文](./README-zh-CN.md)
 
@@ -23,8 +23,8 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Build systems & dependency management tools
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,494 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-05 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [Nix](https://github.com/NixOS/nix) ⭐ 17,831 | 🐛 2,993 | 🌐 C++ | 📅 2026-10-05 is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,495 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-06 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
+* [Nix](https://github.com/NixOS/nix) ⭐ 17,834 | 🐛 2,993 | 🌐 C++ | 📅 2026-10-05 is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) ⭐ 2,431 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-01 is a super-powered JavaScript project management.
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel) ⭐ 1,242 | 🐛 13 | 📅 2024-11-13
 * [OAO](https://github.com/guigrpa/oao) ⭐ 850 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03 is a Yarn-based, opinionated JavaScript monorepo management tool.
@@ -139,12 +139,12 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Notable public monorepos
 
-* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,372 | 🐛 21,809 | 🌐 Nix | 📅 2026-10-06
-* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,312 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-02
-* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,624 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-05
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,378 | 🐛 21,849 | 🌐 Nix | 📅 2026-10-06
+* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,311 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-02
+* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,623 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-06
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,904 | 🐛 174 | 🌐 Go | 📅 2026-10-01
-* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,754 | 🐛 22 | 🌐 Rust | 📅 2026-10-05
-* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 808 | 🐛 36 | 🌐 Solidity | 📅 2026-10-05
+* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,754 | 🐛 24 | 🌐 Rust | 📅 2026-10-06
+* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 808 | 🐛 35 | 🌐 Solidity | 📅 2026-10-06
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os) ⚠️ Archived
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack) ⭐ 498 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03
 * [Foursquare's opensource projects](https://github.com/foursquare/fsqio) ⭐ 258 | 🐛 21 | 🌐 Scala | 📅 2024-07-30
