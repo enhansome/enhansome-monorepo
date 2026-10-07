@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,515 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,675 | 🐛 20 | 🌐 Python | 📅 2026-10-02.
 
 English | [简体中文](./README-zh-CN.md)
 
@@ -23,8 +23,8 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Build systems & dependency management tools
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,495 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-06 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [Nix](https://github.com/NixOS/nix) ⭐ 17,834 | 🐛 2,993 | 🌐 C++ | 📅 2026-10-05 is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,495 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-06 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
+* [Nix](https://github.com/NixOS/nix) ⭐ 17,833 | 🐛 2,983 | 🌐 C++ | 📅 2026-10-06 is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) ⭐ 2,431 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-01 is a super-powered JavaScript project management.
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel) ⭐ 1,242 | 🐛 13 | 📅 2024-11-13
 * [OAO](https://github.com/guigrpa/oao) ⭐ 850 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03 is a Yarn-based, opinionated JavaScript monorepo management tool.
@@ -50,8 +50,8 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Repository management tools
 
-* [meta](https://github.com/mateodelnorte/meta) ⭐ 2,223 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-05 is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
-* [Syncpack](https://github.com/JamieMason/syncpack) ⭐ 2,098 | 🐛 21 | 🌐 Rust | 📅 2026-09-26 ensures consistent dependency versions in large JavaScript Monorepos.
+* [meta](https://github.com/mateodelnorte/meta) ⭐ 2,224 | 🐛 34 | 🌐 JavaScript | 📅 2026-10-05 is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
+* [Syncpack](https://github.com/JamieMason/syncpack) ⭐ 2,099 | 🐛 21 | 🌐 Rust | 📅 2026-09-26 ensures consistent dependency versions in large JavaScript Monorepos.
 * [Ultra Runner](https://github.com/folke/ultra-runner) ⭐ 1,247 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-05 is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
 * [oao](https://github.com/guigrpa/oao) ⭐ 850 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03
 * [wsrun](https://github.com/whoeverest/wsrun) ⭐ 512 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-04 allows running a command in each package of a Yarn workspaces monorepo.
@@ -78,8 +78,8 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [GVFS](https://github.com/Microsoft/GVFS) ⭐ 6,139 | 🐛 321 | 🌐 C# | 📅 2026-09-29 virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
-* [josh](https://github.com/esrlabs/josh) ⭐ 1,959 | 🐛 85 | 🌐 Rust | 📅 2026-10-05 is a git server proxy enabling on-the-fly virtualization of repositories.
+* [GVFS](https://github.com/Microsoft/GVFS) ⭐ 6,139 | 🐛 323 | 🌐 C# | 📅 2026-10-06 virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
+* [josh](https://github.com/esrlabs/josh) ⭐ 1,964 | 🐛 85 | 🌐 Rust | 📅 2026-10-05 is a git server proxy enabling on-the-fly virtualization of repositories.
 * [splitsh-lite](https://github.com/splitsh/lite) ⭐ 1,613 | 🐛 23 | 🌐 Go | 📅 2025-11-30 is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 * [git subtree](https://github.com/apenwarr/git-subtree) ⭐ 1,385 | 🐛 8 | 🌐 Shell | 📅 2017-07-20 merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.
   * [git subsplit](https://github.com/dflydev/git-subsplit) ⭐ 327 | 🐛 18 | 🌐 Shell | 📅 2018-10-03 automates and simplifies the process of managing one-way read-only subtree splits.
@@ -107,7 +107,7 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [Watchman](https://github.com/facebook/watchman) ⭐ 13,735 | 🐛 260 | 🌐 C++ | 📅 2026-10-06, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
+* [Watchman](https://github.com/facebook/watchman) ⭐ 13,736 | 🐛 260 | 🌐 C++ | 📅 2026-10-07, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
 
 #### Scaling info
 
@@ -139,12 +139,12 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Notable public monorepos
 
-* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,378 | 🐛 21,849 | 🌐 Nix | 📅 2026-10-06
-* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,311 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-02
-* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,623 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-06
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,378 | 🐛 21,892 | 🌐 Nix | 📅 2026-10-07
+* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,312 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-02
+* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,626 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-07
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,904 | 🐛 174 | 🌐 Go | 📅 2026-10-01
-* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,754 | 🐛 24 | 🌐 Rust | 📅 2026-10-06
-* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 808 | 🐛 35 | 🌐 Solidity | 📅 2026-10-06
+* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,753 | 🐛 22 | 🌐 Rust | 📅 2026-10-07
+* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 809 | 🐛 35 | 🌐 Solidity | 📅 2026-10-06
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os) ⚠️ Archived
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack) ⭐ 498 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03
 * [Foursquare's opensource projects](https://github.com/foursquare/fsqio) ⭐ 258 | 🐛 21 | 🌐 Scala | 📅 2024-07-30
@@ -154,7 +154,7 @@ English | [简体中文](./README-zh-CN.md)
 
 * [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) ⭐ 1,486 | 🐛 504 | 🌐 Go | 📅 2026-10-04 generates Bazel BUILD files automatically for Go packages.
 * [tomono](https://github.com/unravelin/tomono) ⭐ 923 | 🐛 4 | 🌐 CSS | 📅 2025-09-01 imports an existing set of Git repositories into a monorepo.
-* [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) ⭐ 698 | 🐛 1 | 🌐 Shell | 📅 2026-09-25 contains a set of tools for building and splitting a monolithic repository.
+* [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) ⭐ 698 | 🐛 1 | 🌐 Shell | 📅 2026-10-06 contains a set of tools for building and splitting a monolithic repository.
 * [Bazel's migration-tooling](https://github.com/bazelbuild/migration-tooling) ⚠️ Archived repository.
 * [Fastlane monorepo migration tools](https://github.com/fastlane/monorepo) ⚠️ Archived tools for migrating code and github issues. Specific for fastlane so requires some code changes to use
 
@@ -171,4 +171,4 @@ To the extent possible under law, Uriel Corfa has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
