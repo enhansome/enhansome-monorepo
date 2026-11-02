@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,617 | 🐛 24 | 🌐 Python | 📅 2026-10-31.
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 331,818 | 🐛 24 | 🌐 Python | 📅 2026-11-01.
 
 English | [简体中文](./README-zh-CN.md)
 
@@ -23,13 +23,13 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Build systems & dependency management tools
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,500 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-31 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [Nix](https://github.com/NixOS/nix) ⭐ 17,952 | 🐛 3,034 | 🌐 C++ | 📅 2026-11-01 is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,501 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-01 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
+* [Nix](https://github.com/NixOS/nix) ⭐ 17,958 | 🐛 3,040 | 🌐 C++ | 📅 2026-11-02 is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) ⭐ 2,430 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-01 is a super-powered JavaScript project management.
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel) ⭐ 1,243 | 🐛 13 | 📅 2024-11-13
 * [OAO](https://github.com/guigrpa/oao) ⭐ 849 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03 is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [Spago](https://github.com/spacchetti/spago) ⭐ 830 | 🐛 40 | 🌐 PureScript | 📅 2026-10-23 is a PureScript package manager and build tool powered by Dhall and package-sets.
-* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) ⭐ 531 | 🐛 7 | 🌐 PHP | 📅 2026-07-31 is a PHP monorepo management tool.
+* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) ⭐ 532 | 🐛 7 | 🌐 PHP | 📅 2026-07-31 is a PHP monorepo management tool.
 * [baur](https://github.com/simplesurance/baur) ⭐ 380 | 🐛 34 | 🌐 Go | 📅 2026-10-01 builds only changed applications in a monorepo branch and manages build artifacts
 * [MBT](https://github.com/mbtproject/mbt) ⭐ 219 | 🐛 22 | 🌐 Go | 📅 2023-10-13 is a build tool with differential build support.
 * [Versio](https://github.com/chaaz/versio) ⭐ 126 | 🐛 13 | 🌐 Rust | 📅 2025-06-19 updates all version numbers in monorepo projects based on [conventional commits](https://www.conventionalcommits.org/), and can generate changelogs and tags.
@@ -78,8 +78,8 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [GVFS](https://github.com/Microsoft/GVFS) ⭐ 6,149 | 🐛 321 | 🌐 C# | 📅 2026-10-28 virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
-* [josh](https://github.com/esrlabs/josh) ⭐ 1,991 | 🐛 94 | 🌐 Rust | 📅 2026-10-29 is a git server proxy enabling on-the-fly virtualization of repositories.
+* [GVFS](https://github.com/Microsoft/GVFS) ⭐ 6,148 | 🐛 321 | 🌐 C# | 📅 2026-10-28 virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
+* [josh](https://github.com/esrlabs/josh) ⭐ 1,992 | 🐛 93 | 🌐 Rust | 📅 2026-11-01 is a git server proxy enabling on-the-fly virtualization of repositories.
 * [splitsh-lite](https://github.com/splitsh/lite) ⭐ 1,612 | 🐛 23 | 🌐 Go | 📅 2025-11-30 is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 * [git subtree](https://github.com/apenwarr/git-subtree) ⭐ 1,387 | 🐛 8 | 🌐 Shell | 📅 2017-07-20 merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.
   * [git subsplit](https://github.com/dflydev/git-subsplit) ⭐ 327 | 🐛 18 | 🌐 Shell | 📅 2018-10-03 automates and simplifies the process of managing one-way read-only subtree splits.
@@ -107,7 +107,7 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [Watchman](https://github.com/facebook/watchman) ⭐ 13,758 | 🐛 263 | 🌐 C++ | 📅 2026-10-31, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
+* [Watchman](https://github.com/facebook/watchman) ⭐ 13,758 | 🐛 263 | 🌐 C++ | 📅 2026-11-01, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
 
 #### Scaling info
 
@@ -132,18 +132,18 @@ English | [简体中文](./README-zh-CN.md)
 
 ### Code ownership
 
-* [CODEOWNERS generator](https://github.com/gagoar/codeowners-generator) ⭐ 67 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-01 generates a CODEOWNERS file for your monorepo from files in subfolders.
+* [CODEOWNERS generator](https://github.com/gagoar/codeowners-generator) ⭐ 67 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-01 generates a CODEOWNERS file for your monorepo from files in subfolders.
 * [Write Guard](https://github.com/geritol/write-guard) ⭐ 9 | 🐛 4 | 🌐 TypeScript | 📅 2023-03-05 uses GitHub actions to enforce file-level write access to a monorepo.
 * [GitHub's CODEOWNERS](https://help.github.com/articles/about-codeowners/) can restrict who can approve a pull request that affects a given part of a monorepo.
 * [Chromium's OWNERS file](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) inspired GitHub's CODEOWNERS.
 
 ## Notable public monorepos
 
-* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,666 | 🐛 22,275 | 🌐 Nix | 📅 2026-11-01
-* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,341 | 🐛 103 | 🌐 TypeScript | 📅 2026-10-31
-* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,670 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-31
-* [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,908 | 🐛 171 | 🌐 Go | 📅 2026-10-20
-* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,749 | 🐛 22 | 🌐 Rust | 📅 2026-10-31
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,674 | 🐛 22,442 | 🌐 Nix | 📅 2026-11-02
+* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,341 | 🐛 104 | 🌐 TypeScript | 📅 2026-11-01
+* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,674 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-01
+* [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,909 | 🐛 171 | 🌐 Go | 📅 2026-10-20
+* [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,750 | 🐛 22 | 🌐 Rust | 📅 2026-10-31
 * [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 818 | 🐛 16 | 🌐 Solidity | 📅 2026-10-26
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os) ⚠️ Archived
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack) ⭐ 499 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-10
@@ -171,4 +171,4 @@ To the extent possible under law, Uriel Corfa has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
