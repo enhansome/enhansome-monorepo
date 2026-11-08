@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 333,028 | 🐛 19 | 🌐 Python | 📅 2026-11-06.
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 333,247 | 🐛 19 | 🌐 Python | 📅 2026-11-06.
 
 English | [简体中文](./README-zh-CN.md)
 
@@ -23,8 +23,8 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Build systems & dependency management tools
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,505 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-06 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [Nix](https://github.com/NixOS/nix) ⭐ 17,980 | 🐛 3,038 | 🌐 C++ | 📅 2026-11-06 is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,504 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-06 is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
+* [Nix](https://github.com/NixOS/nix) ⭐ 17,982 | 🐛 3,039 | 🌐 C++ | 📅 2026-11-07 is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) ⭐ 2,430 | 🐛 77 | 🌐 JavaScript | 📅 2024-06-01 is a super-powered JavaScript project management.
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel) ⭐ 1,243 | 🐛 13 | 📅 2024-11-13
 * [OAO](https://github.com/guigrpa/oao) ⭐ 849 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03 is a Yarn-based, opinionated JavaScript monorepo management tool.
@@ -51,7 +51,7 @@ English | [简体中文](./README-zh-CN.md)
 ## Repository management tools
 
 * [meta](https://github.com/mateodelnorte/meta) ⭐ 2,232 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-05 is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
-* [Syncpack](https://github.com/JamieMason/syncpack) ⭐ 2,108 | 🐛 26 | 🌐 Rust | 📅 2026-10-24 ensures consistent dependency versions in large JavaScript Monorepos.
+* [Syncpack](https://github.com/JamieMason/syncpack) ⭐ 2,107 | 🐛 27 | 🌐 Rust | 📅 2026-10-24 ensures consistent dependency versions in large JavaScript Monorepos.
 * [Ultra Runner](https://github.com/folke/ultra-runner) ⭐ 1,249 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-06 is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
 * [oao](https://github.com/guigrpa/oao) ⭐ 849 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-03
 * [wsrun](https://github.com/whoeverest/wsrun) ⭐ 512 | 🐛 24 | 🌐 TypeScript | 📅 2024-05-04 allows running a command in each package of a Yarn workspaces monorepo.
@@ -107,7 +107,7 @@ English | [简体中文](./README-zh-CN.md)
 
 #### Tools
 
-* [Watchman](https://github.com/facebook/watchman) ⭐ 13,762 | 🐛 262 | 🌐 C++ | 📅 2026-11-06, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
+* [Watchman](https://github.com/facebook/watchman) ⭐ 13,761 | 🐛 262 | 🌐 C++ | 📅 2026-11-07, replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
 
 #### Scaling info
 
@@ -139,12 +139,12 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Notable public monorepos
 
-* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,739 | 🐛 22,531 | 🌐 Nix | 📅 2026-11-07
-* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,344 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-06
-* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,679 | 🐛 161 | 🌐 TypeScript | 📅 2026-11-07
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/) ⭐ 26,743 | 🐛 22,553 | 🌐 Nix | 📅 2026-11-08
+* [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/) ⭐ 9,345 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-06
+* [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients) ⭐ 5,682 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-07
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3) ⭐ 4,909 | 🐛 172 | 🌐 Go | 📅 2026-11-04
 * [Habitat's monorepo](https://github.com/habitat-sh/habitat) ⭐ 2,751 | 🐛 23 | 🌐 Rust | 📅 2026-11-06
-* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 821 | 🐛 16 | 🌐 Solidity | 📅 2026-11-02
+* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo) ⭐ 823 | 🐛 16 | 🌐 Solidity | 📅 2026-11-02
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os) ⚠️ Archived
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack) ⭐ 498 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-10
 * [Foursquare's opensource projects](https://github.com/foursquare/fsqio) ⭐ 257 | 🐛 21 | 🌐 Scala | 📅 2024-07-30
@@ -152,7 +152,7 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Migration tools
 
-* [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) ⭐ 1,491 | 🐛 518 | 🌐 Go | 📅 2026-10-29 generates Bazel BUILD files automatically for Go packages.
+* [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) ⭐ 1,491 | 🐛 519 | 🌐 Go | 📅 2026-10-29 generates Bazel BUILD files automatically for Go packages.
 * [tomono](https://github.com/unravelin/tomono) ⭐ 923 | 🐛 4 | 🌐 CSS | 📅 2025-09-01 imports an existing set of Git repositories into a monorepo.
 * [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) ⭐ 698 | 🐛 1 | 🌐 Shell | 📅 2026-11-06 contains a set of tools for building and splitting a monolithic repository.
 * [Bazel's migration-tooling](https://github.com/bazelbuild/migration-tooling) ⚠️ Archived repository.
@@ -171,4 +171,4 @@ To the extent possible under law, Uriel Corfa has waived all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
