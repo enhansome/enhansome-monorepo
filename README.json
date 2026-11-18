@@ -19,7 +19,7 @@
             "open_issues": 74,
             "owner": "teambit",
             "repo": "bit",
-            "stars": 18508,
+            "stars": 18509,
             "topics": [
               "ai",
               "collaboration",
@@ -56,11 +56,11 @@
             "id": 3386088,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-16T23:48:07Z",
+            "last_commit": "2026-11-17T21:41:17Z",
             "open_issues": 3060,
             "owner": "NixOS",
             "repo": "nix",
-            "stars": 18040,
+            "stars": 18044,
             "topics": [
               "c-plus-plus",
               "declarative-language",
@@ -493,7 +493,7 @@
             "open_issues": 60,
             "owner": "folke",
             "repo": "ultra-runner",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "build",
               "build-tool",
@@ -698,11 +698,11 @@
                     "id": 80058269,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T02:18:15Z",
-                    "open_issues": 325,
+                    "last_commit": "2026-11-18T02:17:03Z",
+                    "open_issues": 326,
                     "owner": "microsoft",
                     "repo": "VFSForGit",
-                    "stars": 6149,
+                    "stars": 6150,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
@@ -719,11 +719,11 @@
                     "id": 60837945,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T17:16:17Z",
-                    "open_issues": 92,
+                    "last_commit": "2026-11-17T22:44:15Z",
+                    "open_issues": 91,
                     "owner": "josh-project",
                     "repo": "josh",
-                    "stars": 2003,
+                    "stars": 2004,
                     "topics": [
                       "git",
                       "monorepo",
@@ -876,11 +876,11 @@
                     "id": 6930489,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T02:59:27Z",
+                    "last_commit": "2026-11-17T22:40:31Z",
                     "open_issues": 262,
                     "owner": "meta",
                     "repo": "watchman",
-                    "stars": 13767,
+                    "stars": 13768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:14:21.081Z"
@@ -1035,7 +1035,8 @@
                   "codeowners",
                   "codeowners-files",
                   "codeowners-generator",
-                  "monorepo"
+                  "monorepo",
+                  "showcase"
                 ]
               },
               "first_seen": "2026-08-28T06:14:21.081Z"
@@ -1089,11 +1090,11 @@
             "id": 4542716,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-11-17T04:42:37Z",
-            "open_issues": 22535,
+            "last_commit": "2026-11-18T03:43:52Z",
+            "open_issues": 22526,
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 26860,
+            "stars": 26876,
             "topics": [
               "hacktoberfest",
               "linux",
@@ -1120,7 +1121,7 @@
             "open_issues": 104,
             "owner": "berty",
             "repo": "berty",
-            "stars": 9354,
+            "stars": 9356,
             "topics": [
               "android",
               "berty",
@@ -1157,7 +1158,7 @@
             "id": 60692320,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T04:16:36Z",
+            "last_commit": "2026-11-17T20:16:50Z",
             "open_issues": 163,
             "owner": "ProtonMail",
             "repo": "WebClients",
@@ -1218,8 +1219,8 @@
             "id": 36098429,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T04:33:31Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-17T22:30:09Z",
+            "open_issues": 20,
             "owner": "habitat-sh",
             "repo": "habitat",
             "stars": 2752,
@@ -1371,8 +1372,8 @@
             "id": 53954979,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T07:01:25Z",
-            "open_issues": 521,
+            "last_commit": "2026-11-17T13:38:04Z",
+            "open_issues": 519,
             "owner": "bazel-contrib",
             "repo": "rules_go",
             "stars": 1492,
@@ -1491,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:42:37.308Z",
+    "last_updated": "2026-11-18T03:47:30.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Monorepo tools, software and architectures.",
@@ -1503,7 +1504,7 @@
       "open_issues": 34,
       "owner": "korfuri",
       "repo": "awesome-monorepo",
-      "stars": 5896,
+      "stars": 5897,
       "topics": [
         "awesome",
         "awesome-list",
